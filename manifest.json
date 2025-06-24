@@ -1,0 +1,7 @@
+{
+  "name": "hello-design",
+  "version": "0.0.1",
+  "description": "Jednoduchý mód ukazující, že to běží a mění vzhled",
+  "entry": "main.js",
+  "author": "Matus"
+}
